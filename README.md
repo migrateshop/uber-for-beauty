@@ -1,4 +1,6 @@
-Transforming the Beauty Industry: The Uber for Beauty Phenomenon
+![uber-for-beauty-migrateshop](https://github.com/migrateshop/uber-for-beauty/assets/77200601/93d7d949-96eb-4997-851a-0e325b5b14eb)
+
+<h1 align="center"> Transforming the Beauty Industry: The Uber for Beauty Phenomenon </h1>
 
 The traditional beauty industry has long been dominated by large corporations that massive produce skincare, makeup, and hair care products. While these companies have been successful in catering to mainstream consumer tastes, they face several challenges.
 
@@ -32,6 +34,8 @@ With our script, you can easily improve customer experience, and elevate your[ o
 * **Secure Payment:** This platform offers a secure and wide range of payment processes that will ensure a seamless and convenient transaction process.
 
 Ditch the salon squeeze! Our[ Uber for beauty app](https://migrateshop.com/uber-for-beauty/) brings the spa to you, with on-demand appointments by screened professionals who cater to your unique needs. It's the perfect blend of convenience and personalization, designed to pamper today's busy yet beauty-conscious consumer.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“eat24clone.png" src="https://github.com/migrateshop/eat24-clone/blob/main/images/eat24-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ### Conclusion
 In conclusion, the advent of the Uber for Beauty represents a pivotal moment in the evolution of the beauty industry, where technology intersects with personal care services to create a transformative paradigm shift. This innovative model offers consumers unprecedented convenience and accessibility while empowering beauty professionals by providing them with new avenues for business growth and flexibility. 
